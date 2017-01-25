@@ -98,7 +98,8 @@
 
     <dimen name="label_margin_big">4dp</dimen>
     <dimen name="label_margin_small">2dp</dimen>
-    <dimen name="dialpad_font_size">36sp</dimen>
+
+    <dimen name="dialpad_font_size">20sp</dimen>
     <!--padding should be (in dip) ~ 60% dialpad_font_size -->
     <dimen name="dialpad_digit_padding">22dip</dimen>
     <dimen name="timer_setup_font_size">56sp</dimen>
@@ -115,8 +116,8 @@
     <dimen name="circle_margin">32dp</dimen>
     <dimen name="analog_clock_margin">60dp</dimen>
     <dimen name="timer_circle_margin">32dp</dimen>
-    <dimen name="circle_size">280dp</dimen>
 
+    <dimen name="circle_size">180dp</dimen>
     <!-- stopwatch_list_bottom_spacing = footer_button_size + footer_button_layout_margin -->
     <dimen name="stopwatch_list_bottom_spacing">72dip</dimen>
 

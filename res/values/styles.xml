@@ -37,7 +37,7 @@
         <item name="android:background">@color/time_picker_gray</item>
         <item name="android:timePickerStyle">@style/TimePickerStyle</item>
         <item name="android:textColorPrimaryInverse">@color/hot_pink</item>
-        <item name="android:colorAccent">@color/hot_pink</item>
+        <item name="android:colorAccent">@color/hot_pink</item> 
     </style>
 
     <style name="TimePickerStyle" parent="@android:style/Widget.Material.TimePicker">
@@ -47,6 +47,7 @@
         <item name="android:numbersBackgroundColor">@color/time_picker_gray</item>
         <item name="android:numbersTextColor">@color/white</item>
         <item name="android:amPmTextColor">@color/white</item>
+	<item name="android:timePickerMode">spinner</item>
     </style>
 
     <style name="TimeLabelTextAppearance" parent="@android:style/TextAppearance.Material">
